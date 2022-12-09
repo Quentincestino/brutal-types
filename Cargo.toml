@@ -3,7 +3,7 @@ name = "brutal-types"
 version = "0.1.0"
 edition = "2021"
 description = "Types definitions used to interact with the BRUTAL microkernel"
-license = "mit"
+license = "MIT"
 homepage = "https://github.com/Quentincestino/brutal-types"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
